@@ -424,10 +424,6 @@ We welcome contributions! Please follow these steps:
 - Write comprehensive tests for new features
 - Document public APIs with dartdoc comments
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Flutter Team](https://flutter.dev) for the amazing framework
